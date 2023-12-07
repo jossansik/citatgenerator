@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import quoteData from './quotes';
 import CategorySelector from './CategorySelector';
+import './QuoteDisplay.css';
 
 const QuoteDisplay = () => {
   const [randomQuote, setRandomQuote] = useState('');
@@ -38,14 +39,17 @@ const QuoteDisplay = () => {
   };
 
   return (
-    <div>
-      <h1>Citatgenerator</h1>
-      <CategorySelector categories={categories} handleCategoryChange={handleCategoryChange} />
-      <button onClick={handleGenerateRandomQuote} disabled={!selectedCategory}>
-        Generera citat!
-      </button>
-      <p>{randomQuote}</p>
-    </div>
+    <div className="quote-display">
+    <h1 className="quote-display__title">Citatgenerator</h1>
+    <CategorySelector categories={categories} handleCategoryChange={handleCategoryChange} />
+    <button
+      className="quote-display__button"
+      onClick={handleGenerateRandomQuote}
+      disabled={!selectedCategory}>
+      Generera citat
+    </button>
+    <p className="quote-display__quote">{randomQuote}</p>
+  </div>
   );
 };
 

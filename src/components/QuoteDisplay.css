@@ -1,0 +1,29 @@
+.quote-display {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .quote-display__title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .quote-display__quote {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  .quote-display__button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .quote-display__button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
