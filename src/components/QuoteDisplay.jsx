@@ -17,12 +17,12 @@ const QuoteDisplay = () => {
       const randomIndex = Math.floor(Math.random() * filteredQuotes.length);
       const quote = filteredQuotes[randomIndex].quote;
       setRandomQuote(quote);
+    } else {
+      setRandomQuote('Det finns inga citat i den valda kategorin');
     }
   };
 
   useEffect(() => {
-    getRandomQuote();
-
     // Split quotes into categories
     const uniqueCategories = [...new Set(quoteData.map((quote) => quote.category))];
     setCategories(uniqueCategories);
@@ -33,11 +33,18 @@ const QuoteDisplay = () => {
     setSelectedCategory(category);
   };
 
+  const handleGenerateRandomQuote = () => {
+    getRandomQuote();
+  };
+
   return (
     <div>
-      <h1>Random Quote:</h1>
-      <p>{randomQuote}</p>
+      <h1>Citatgenerator</h1>
       <CategorySelector categories={categories} handleCategoryChange={handleCategoryChange} />
+      <p>{randomQuote}</p>
+      <button onClick={handleGenerateRandomQuote} disabled={!selectedCategory}>
+        Generera citat!
+      </button>
     </div>
   );
 };
