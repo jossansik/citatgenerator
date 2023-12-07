@@ -1,18 +1,24 @@
-import React, { useState} from 'react';
+import React, { useState, useEffect } from 'react';
+import quoteData from './quotes';
 
-const QuoteDisplay = ({ quote }) => {
-  const [isLiked, setIsLiked] = useState(false);
+const QuoteDisplay = () => {
+  const [randomQuote, setRandomQuote] = useState('');
 
-  const handleLikeClick = () => {
-    // Använd useState för att uppdatera och hantera komponentens interna state
-    setIsLiked((prevIsLiked) => !prevIsLiked);
+  const getRandomQuote = () => {
+    const randomIndex = Math.floor(Math.random() * quoteData.length);
+    const quote = quoteData[randomIndex];
+    setRandomQuote(quote);
   };
+
+  useEffect(() => {
+    getRandomQuote();
+  }, []);
 
   return (
     <div>
-      <h2>Quote Display</h2>
-      <p>{quote}</p>
-      <button onClick={handleLikeClick}>{isLiked ? 'Unlike' : 'Like'}</button>
+      <h1>Random Quote:</h1>
+      <p>{randomQuote}</p>
+      <button onClick={getRandomQuote}>Get Random Quote</button>
     </div>
   );
 };
