@@ -41,10 +41,10 @@ const QuoteDisplay = () => {
     <div>
       <h1>Citatgenerator</h1>
       <CategorySelector categories={categories} handleCategoryChange={handleCategoryChange} />
-      <p>{randomQuote}</p>
       <button onClick={handleGenerateRandomQuote} disabled={!selectedCategory}>
         Generera citat!
       </button>
+      <p>{randomQuote}</p>
     </div>
   );
 };

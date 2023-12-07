@@ -1,6 +1,7 @@
 
 import './App.css';
 import CategorySelector from './components/CategorySelector';
+import LikeButton from './components/LikeButton';
 import QuoteDisplay from './components/QuoteDisplay';
 
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
   return (
     <div>
       <QuoteDisplay />
+      <LikeButton />
     </div>
   );
 };
