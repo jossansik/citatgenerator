@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Rubik&family=Shadows+Into+Light&display=swap");
+
+.quote-display__title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.quote-display__title {
+  font-size: 36px;
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+  text-align: center;
+  max-width: 600px;
+  padding: 2px;
+}
+
+.quote-display__body {
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 10px;
+  max-width: 600px;
+  text-align: center;
+  padding: 2px;
+}

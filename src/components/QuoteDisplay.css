@@ -7,7 +7,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-bottom: 1%;
+  padding-bottom: 1px;
 }
 
 .quote-display__title {
@@ -25,5 +25,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 10%;
+  padding-top: 0.5em;
 }

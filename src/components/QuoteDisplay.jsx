@@ -33,6 +33,7 @@ const QuoteDisplay = () => {
       ...new Set(quoteData.map((quote) => quote.category)),
     ];
     setCategories(uniqueCategories);
+    getRandomQuote(); // Set a random quote as default
   }, []);
 
   const handleCategoryChange = (event) => {

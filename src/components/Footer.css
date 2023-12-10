@@ -1,10 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Rubik&family=Shadows+Into+Light&display=swap");
+
 .footer {
   position: fixed;
-  left: 0;
   bottom: 0;
-  width: 100%;
   text-align: center;
-  padding: 2%;
+  padding: 10px;
   background-color: black;
   color: white;
+  font-family: "Rubik", sans-serif;
 }

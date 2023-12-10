@@ -8,6 +8,8 @@
 
 .random-quote {
   font-size: 24px;
-  margin: 20px 0;
   font-family: "Shadows Into Light", cursive;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
 }
