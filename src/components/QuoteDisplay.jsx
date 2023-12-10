@@ -46,10 +46,7 @@ const QuoteDisplay = () => {
     <div className="quote-display">
       <h1 className="quote-display__title">Välkommen till Citatmaskinen</h1>
       <h2 className="quote-display__body">
-        Här kan du hitta citat för alla tillfällen och sinnesstämningar. <br />
-        Vänligen notera att citaten i citamaskinen är AI-genererade och hämtade
-        från internet. Överväg därför att kontrollera riktigheten om det är
-        viktigt att citatet du använder är korrekt.{" "}
+        Här kan du hitta citat för alla tillfällen och sinnesstämningar. <br />{" "}
       </h2>
       <CategorySelector
         categories={categories}

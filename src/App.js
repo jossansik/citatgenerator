@@ -1,16 +1,22 @@
-
-import './App.css';
-import CategorySelector from './components/CategorySelector';
-import LikeButton from './components/LikeButton';
-import QuoteDisplay from './components/QuoteDisplay';
+import React from "react";
+import "./App.css";
+import Footer from "./components/Footer";
+import QuoteDisplay from "./components/QuoteDisplay";
 
 const App = () => {
-  const categories = ['Inspirerande citat', 'Motiverande citat', 'Humoristiska citat', 'Filsofiska citat', 'Kärlekscitat'];
+  const appStyles = {
+    backgroundColor: "#f2f2f2",
+    padding: "20px",
+    fontFamily: "Courier, monospace",
+    overflow: "hidden",
+    width: "100vw",
+    height: "100vh",
+  };
 
   return (
-    <div>
-      <QuoteDisplay />
-      <LikeButton />
+    <div className="container">
+      {<QuoteDisplay />}
+      {<Footer />}
     </div>
   );
 };

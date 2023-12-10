@@ -1,20 +1,29 @@
 import React, { useRef } from "react";
+import "./CategorySelector.css";
 
 const CategorySelector = ({ categories, handleCategoryChange }) => {
   const inputRef = useRef(null);
 
   return (
-    <div>
-      <label>
-        Välj kategori:
-        <select ref={inputRef} onChange={handleCategoryChange}>
-          {categories.map((category) => (
-            <option key={category} value={category}>
-              {category}
-            </option>
-          ))}
-        </select>
-      </label>
+    <div className="category-selector">
+      <select
+        ref={inputRef}
+        onChange={handleCategoryChange}
+        className="category-selector__select"
+      >
+        <option disabled selected hidden>
+          Välj kategori:
+        </option>
+        {categories.map((category) => (
+          <option
+            key={category}
+            value={category}
+            className="category-selector__option"
+          >
+            {category}
+          </option>
+        ))}
+      </select>{" "}
     </div>
   );
 };
