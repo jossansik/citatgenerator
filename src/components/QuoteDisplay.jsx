@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import quoteData from "./quotes";
 import CategorySelector from "./CategorySelector";
 import "./QuoteDisplay.css";
+import GenerateButton from "./GenerateButton";
+import Quote from "./Quote";
 
 const QuoteDisplay = () => {
   const [randomQuote, setRandomQuote] = useState("");
@@ -44,14 +46,20 @@ const QuoteDisplay = () => {
 
   return (
     <div className="quote-display">
-      <CategorySelector
-        categories={categories}
-        handleCategoryChange={handleCategoryChange}
-      />
-      <div
-        className="quote-display__quote"
-        dangerouslySetInnerHTML={{ __html: randomQuote }}
-      ></div>
+      <div className="quote-display__container">
+        <CategorySelector
+          categories={categories}
+          handleCategoryChange={handleCategoryChange}
+        />
+
+        <GenerateButton
+          handleGenerateRandomQuote={handleGenerateRandomQuote}
+          selectedCategory={selectedCategory}
+        />
+      </div>
+      <div className="quote-display__quote">
+        <Quote randomQuote={randomQuote} />
+      </div>
     </div>
   );
 };

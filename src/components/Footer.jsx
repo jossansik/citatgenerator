@@ -8,7 +8,7 @@ const Footer = () => {
         {" "}
         Vänligen notera att citaten i citamaskinen är AI-genererade och/eller
         hämtade från internet. Överväg därför att kontrollera riktigheten om det
-        är viktigt att citatet du använder är korrekt.
+        är viktigt att citatet du använder är korrekt.{" "}
       </p>
     </footer>
   );

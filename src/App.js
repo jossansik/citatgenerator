@@ -20,7 +20,6 @@ const App = () => {
     <div className="container">
       {<Title />}
       {<QuoteDisplay />}
-      {<GenerateButton />}
       {<Quote />}
       {<Footer />}
     </div>
