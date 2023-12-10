@@ -6,7 +6,7 @@ import GenerateButton from "./GenerateButton";
 import Quote from "./Quote";
 
 const QuoteDisplay = () => {
-  const [randomQuote, setRandomQuote] = useState("");
+  const [randomQuote, setRandomQuote] = useState({});
   const [categories, setCategories] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState("");
 
@@ -20,7 +20,7 @@ const QuoteDisplay = () => {
 
     if (filteredQuotes.length > 0) {
       const randomIndex = Math.floor(Math.random() * filteredQuotes.length);
-      const quote = filteredQuotes[randomIndex].quote;
+      const quote = filteredQuotes[randomIndex];
       setRandomQuote(quote);
     } else {
       setRandomQuote("Det finns inga citat i den valda kategorin");
@@ -51,13 +51,12 @@ const QuoteDisplay = () => {
           categories={categories}
           handleCategoryChange={handleCategoryChange}
         />
-
         <GenerateButton
           handleGenerateRandomQuote={handleGenerateRandomQuote}
           selectedCategory={selectedCategory}
         />
       </div>
-      <div className="quote-display__quote">
+      <div>
         <Quote randomQuote={randomQuote} />
       </div>
     </div>

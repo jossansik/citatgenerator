@@ -8,6 +8,10 @@
   cursor: pointer;
 }
 
+.quote-display__button:hover {
+  background-color: red;
+}
+
 .quote-display__button:disabled {
   background-color: #ccc;
   cursor: not-allowed;

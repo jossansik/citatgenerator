@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Shadows+Into+Light&display=swap");
+
+.quote {
+  font-size: 18px;
+  margin: 20px 0;
+  font-family: "Shadows Into Light", cursive;
+}

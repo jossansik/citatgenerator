@@ -1,11 +1,12 @@
 import React from "react";
+import "./Quote.css";
 
 const Quote = ({ randomQuote }) => {
   return (
-    <div
-      className="quote-display__quote"
-      dangerouslySetInnerHTML={{ __html: randomQuote }}
-    ></div>
+    <div className="quote">
+      <div>{randomQuote?.quote}</div>
+      <div>{randomQuote?.author}</div>
+    </div>
   );
 };
 
