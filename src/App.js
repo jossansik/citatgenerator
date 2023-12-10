@@ -2,6 +2,9 @@ import React from "react";
 import "./App.css";
 import Footer from "./components/Footer";
 import QuoteDisplay from "./components/QuoteDisplay";
+import Title from "./components/Title";
+import GenerateButton from "./components/GenerateButton";
+import Quote from "./components/Quote";
 
 const App = () => {
   const appStyles = {
@@ -15,7 +18,10 @@ const App = () => {
 
   return (
     <div className="container">
+      {<Title />}
       {<QuoteDisplay />}
+      {<GenerateButton />}
+      {<Quote />}
       {<Footer />}
     </div>
   );

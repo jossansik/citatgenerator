@@ -44,21 +44,10 @@ const QuoteDisplay = () => {
 
   return (
     <div className="quote-display">
-      <h1 className="quote-display__title">Välkommen till Citatmaskinen</h1>
-      <h2 className="quote-display__body">
-        Här kan du hitta citat för alla tillfällen och sinnesstämningar. <br />{" "}
-      </h2>
       <CategorySelector
         categories={categories}
         handleCategoryChange={handleCategoryChange}
       />
-      <button
-        className="quote-display__button"
-        onClick={handleGenerateRandomQuote}
-        disabled={!selectedCategory}
-      >
-        Generera citat
-      </button>
       <div
         className="quote-display__quote"
         dangerouslySetInnerHTML={{ __html: randomQuote }}
