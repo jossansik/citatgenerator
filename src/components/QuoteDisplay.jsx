@@ -52,7 +52,9 @@ const QuoteDisplay = () => {
             categories={categories}
             handleCategoryChange={handleCategoryChange}
           />
-          <GenerateButton type="submit" selectedCategory={selectedCategory} />
+          <div className="button-container">
+            <GenerateButton type="submit" selectedCategory={selectedCategory} />
+          </div>
         </form>
       </div>
       <div>
