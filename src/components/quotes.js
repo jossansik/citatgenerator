@@ -4,6 +4,952 @@ const quoteData = [
   {
     category: "Inspirerande citat",
     quote:
+      "Det finns bara två sätt att leva sitt liv. Det ena är att leva som att mirakel inte existerar. Det andra är att leva som om allt är ett mirakel.",
+    author: "– Albert Einstein",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Du är inte en droppe i havet. Du är hela havet i en droppe.",
+    author: "– Rumi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det vackra med rädsla är att när du springer emot den så springer den bort.",
+    author: "– Robin Sharma",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Vi behöver jorden, men jorden behöver inte oss.",
+    author: "– Chief Red Crow",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "För ett öppet hjärta är allting möjligt.",
+    author: "– Thomas Di Leva",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "När jag trodde på mina tankar så led jag. När jag inte trodde på dem led jag inte. Och jag förstod det var sant för var och en av oss.",
+    author: "– Byron Katie",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet är lite som att gå på en lina, det gäller att hålla balansen.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Du kan inte ha ett positivt liv och ett negativt sinne.",
+    author: "– Joyce Meyer",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Din positiva handling kombinerat med positivt tänkande mynnar ut i framgång.",
+    author: "– Shiv Khera",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "En ledare är en person som känner till vägen, går vägen och visar vägen.",
+    author: "– John C. Maxwell",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Du kan säga att jag är en drömmare, men jag är inte den ende. Jag hoppas att du en dag går med oss. Och världen kommer bli som en.",
+    author: "– John Lennon",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Innovation skiljer mellan en ledare och en följare.",
+    author: "– Steve Jobs",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag är en viss typ av drömmare. Mina drömmar är inte luftiga saker. Jag vill omvandla mina drömmar till verkligheter så mycket jag kan.",
+    author: "– Mahatma Gandhi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Finn inte fel, finn en kur.",
+    author: "– Henry Ford",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Sörj inte gårdagen, den är borta. Oroa dig inte för morgondagen, den är inte här än. Lev här och nu och njut av dagen.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Om livet känns rörigt och upp och ner, så tänk att det är för att du möblerar om för något bättre.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "En dag ska vi dö, alla andra dagar ska vi leva.",
+    author: "– PO Enquist",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Den bästa förberedelsen för morgondagen är att göra ditt bästa idag.",
+    author: "– H. Jackson Brown, Jr.",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "De bästa och mest vackra ting i världen kan inte se eller kännas vid – de måste kännas med hjärtat.",
+    author: "– Helen Keller",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Det vi tänker, vi blir.",
+    author: "– Buddha",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag kan inte ändra vindens riktning, men jag kan justera mina segel så att de alltid når min destination.",
+    author: "– Jimmy Dean",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Att vara intellektuell skapar många frågor och inga svar. Du kan fylla ditt liv med idéer och ändå gå hem själv. Allt du egentligen har som spelar roll är känslor. Det är vad musik är för mig.",
+    author: "– Janis Joplin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Kärlek är föregående till livet, senare än döden, initialt till skapelsen och exponenten till jorden.",
+    author: "– Emily Dickinson",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Om du tittar på vad du har i ditt liv kommer du alltid ha mer. Om du tittar på vad du inte har, kommer du aldrig ha tillräckligt.",
+    author: "– Oprah Winfrey",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Gör det mesta av dig själv genom att vattna de små, och genom att göra inre gnistorna till lågor av prestation.",
+    author: "– Golda Meir",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Om du inte riskerar någonting, riskerar du ännu mera.",
+    author: "– Erica Jong",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Om du inte gillar vägen du går på, börja gå på en annan.",
+    author: "– Dolly Parton",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Fall sju gånger, ställ dig upp åtta.",
+    author: "– Japanskt ordspråk",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Allt vatten i världen kan inte sänka ett skepp såvida det inte kommer in i skeppet. Negativitet kan inte sänka en person såvida det inte kommer in i huvudet.",
+    author: "– Kinesiskt ordspråk",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "En ros kan leva bland taggar och ändå aldrig bli skadad av dem.",
+    author: "– Kinesiskt ordspråk",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jorden kan du inte göra om. Stilla din häftiga själ. Endast en sak kan du göra: en annan människa väl.",
+    author: "– Stig Dagerman",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "En hungrig människa mindre betyder en broder mer.",
+    author: "– Stig Dagerman",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Att misslyckas är bara ett annat sätt att lära sig hur man gör något rätt.",
+    author: "– Marian Wright Edelman",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Hemligheten till förändring är inte att bekämpa det gamla, utan att bygga det nya.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "För att få kunskap måste man studera, men för att få visdom måste man observera.",
+    author: "– Marilyn vos Savant",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Sluta mäta dagar utifrån din produktivitet och börja uppleva dem av din närvaro.",
+    author: "– Alan Watts",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ålder är inte en barriär. Det är en begränsning du sätter på ditt sinne.",
+    author: "– Jackie Joyner-Kersee",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Jag går långsamt, men jag går aldrig baklänges.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Varje ögonblick som du lever i det förflutna är ett ögonblick du kastar bort i nuet.",
+    author: "– Tony Robbins",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Leta efter något positivt varje dag, även om du behöver leta lite extra mycket vissa dagar.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Om du kan drömma det så kan du uppnå det.",
+    author: "– Zig Ziglar",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Tro att du kan och du är halvvägs där.",
+    author: "– Theodore Roosevelt",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Den enda personen du är ämnad att bli är personen du bestämmer dig för att bli.",
+    author: "– Ralph Waldo Emerson",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Rikta alltid ditt ansikte mot solen och skuggorna kommer att falla bakom dig.",
+    author: "– Walt Whitman",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Begränsa inte dina utmaningar, utmana dina begränsningar.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "När du tvivlar på hur långt du kan gå, kom ihåg hur långt du har kommit.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Du behöver inte vara perfekt för att vara fantastisk.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Du kan inte återvända och ändra början, men du kan börja där du är nu och ändra slutet.",
+    author: "– C.S Lewis",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Gör ditt bästa. Ingen kan göra mer än så.",
+    author: "– John Wooden",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Om du ser något vackert i någon, säg det.",
+    author: "– Ruthie Lindsay",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Kom ihåg var du finner dörren till harmoni: den finns inom dig.",
+    author: "– Rumi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Änglar har ingen filosofi utöver kärlek.",
+    author: "– Terri Guillemets",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Varför försöka öppna en dörr mellan oss när hela väggen är en illusion?",
+    author: "– Rumi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Inget i världen är fullständigt fel. Till och med en klocka som står stilla går rätt två gånger om dagen.",
+    author: "– Paulo Coelho",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Lycka finns inom oss själva, inte bredvid någon annan.",
+    author: "– Marilyn Monroe",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Att förstå allt är att förlåta allt.",
+    author: "– Buddha",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Mod kan inte se runt hörn, men går runt dem ändå.",
+    author: "– Mignon McLaughlin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det är klokare att gå sin egen väg än att gå vilse i andras fotspår.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Antigen så hittar jag en väg, eller så skapar jag en.",
+    author: "– Philip Sidney",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Ett negativt sinne kommer aldrig att ge dig ett positivt liv.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Gå vidare på din väg, då den endast existerar genom dina steg.",
+    author: "– Augustine of Hippo",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Du behöver inte bli någon du inte är för att bli bättre än du var.",
+    author: "– Sidney Poitier",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "De minsta handlingarna är alltid bättre än de ädlaste avsikterna.",
+    author: "– Robin Sharma",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ge inte upp all din glädje för en idé som du brukade ha om dig själv som inte är sann längre.",
+    author: "– Cheryl Strayed",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Ingen ångrar att de har gjort sitt bästa.",
+    author: "– George Halas",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Följ det som fångar ditt hjärta, inte det som fångar dina ögon.",
+    author: "– Roy T. Bennett",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Vi glädjer oss över fjärilens skönhet, men erkänner sällan de förändringar den har genomgått för att uppnå den skönheten.",
+    author: "– Maya Angelou",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Förändring är svårast i början, rörigast i mitten och bäst i slutet.",
+    author: "– Robin Sharma",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Du är tillräcklig som du är. Du har inget att bevisa för någon.",
+    author: "– Maya Angelou",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag har inte slutat vara rädd, men jag har slutat låta rädsla styra mig.",
+    author: "– Erica Jong",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det är bättre att korsa startlinjen och drabbas av konsekvenserna än att bara stirra på linjen resten av ditt liv.",
+    author: "– Paulo Coelho",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Sänd ut vad du helst vill få tillbaka.",
+    author: "– Robin Sharma",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Ju mindre du försöker imponera, desto fridfullare kan du vara.",
+    author: "– Maxime Lagacé",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den tid du tycker om att slösa bort är inte bortslösad tid.",
+    author: "– Marthe Troly-Curtin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "De små sakerna? De små stunderna? De är inte små.",
+    author: "– John Zabat-Zinn",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Stunden du börjar bry dig om vad andra tycker, är stunden du slutar vara dig själv.",
+    author: "– Meryl Streep",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Kom ihåg: om någon säger att det är omöjligt så är det omöjligt för dem, inte för dig.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det första steget mot att få det du vill ha ut av livet är att bestämma vad du vill ha.",
+    author: "- Ben Stein",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Du lever bara en gång, men om du lever det på rätt sätt så är det tillräckligt.",
+    author: "- Mae West",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det är viktigare att leva ett liv som känns bra på insidan, än ett som ser bra ut på utsidan.",
+    author: "- Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Långsamt leder också framåt.",
+    author: "- Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Prata inte med hat i munnen.",
+    author: "- Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "En vanlig dag är en skatt.",
+    author: "- Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Allt stort som skedde i världen skedde först i någon människas fantasi.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ge barnen kärlek, mera kärlek och ännu mera kärlek, så kommer folkvettet av sig själv.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Och så ska man ju ha några stunder att bara sitta och glo också!",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag bara lever på och tycker att man ska behandla var dag som om den var den enda man har.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ibland måste man göra saker man inte vågar, annars är man ingen människa utan bara en liten lort.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag är en vacker och genomklok och lagom tjock man i mina bästa år.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Smälla ska det göra och roligt vill jag ha, annars är jag inte me’!",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Man bör leva sitt liv så man blir vän med döden.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Man kan inte piska in något i barn, men man kan smeka fram mycket ur dem.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Denna dagen ett liv.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Låt därför livet bära med sig vad det vill, och låt mig vara stark nog att ta emot vad det bjuder.",
+    author: "- Astrid Lindgren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Säg ”ja” till livet, och se hur livet plötsligt börjar arbeta för dig istället för emot dig.",
+    author: "- Eckhart Tolle",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Det finns ingen bättre utbildning än motgångar.",
+    author: "- Benjamin Disraeli",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Sjömannen ber inte om medvind, han lär sig segla.",
+    author: "- Gustaf Lindborg",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "De med starkast hjärta är även de med flest ärr.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Du kan inte skydda dig själv från sorg utan att skydda dig själv från lycka.",
+    author: "– Jonathan Saffran Foer",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Den som slutar lära sig är gammal, oavsett tjugo eller åttio. Den som fortsätter lära sig stannar som ung. Det största i livet är att behålla din hjärna ung.",
+    author: "– Henry Ford",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Livet är generellt något som händer någon annanstans.",
+    author: "– Alan Bennett",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Du måste fråga dig, huruvida du vandrar på den rätta stigen till den rätta porten eller inte.",
+    author: "– Frankfurtaren",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Vi lever på vad vi får, men vi skapar ett liv på det vi ger.",
+    author: "– Winston Churchill",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Bättre att leva ett år som tiger än hundra som ett får.",
+    author: "– Madonna",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ge inte upp all din glädje för en idé som du brukade ha om dig själv som inte är sann längre.",
+    author: "– Cheryl Strayed",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Du behöver inte bli någon du inte är för att bli bättre än du var.",
+    author: "– Sidney Poitier",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Förändring är lagen om livet. Och de som endast letar upp det förflutna eller nuet kommer garanterat att missa framtiden.",
+    author: "– John F. Kennedy",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Le åt döden! Hur kan detta vara möjligt om icke livet vore komiskt i sig självt? Så mycket bråk för så litet.",
+    author: "– August Strindberg",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet är verkligen lätt, men vi insisterar på att göra det komplicerat.",
+    author: "– Confucius",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Gå vidare på din väg, då den endast existerar genom dina steg.",
+    author: "– Augustine of Hippo",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Det finns tre konstanter i livet… förändring, val och principer.",
+    author: "– Stephen Covey",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Antingen så hittar jag en väg, eller så skapar jag en.",
+    author: "– Philip Sidney",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Avbilden är en dröm. Skönheten är verklig.",
+    author: "– Richard Bach",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Det finns mer till i livet än att öka dess hastighet.",
+    author: "– Mahatma Gandhi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Den högsta nöjet i livet är att göra det som folk säger att du inte får.",
+    author: "– Walter Bagehot",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Påstå inte att världen är skyldig dig någonting. Det är den inte. Världen var här först.",
+    author: "- Mark Twain",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet är som en stor målarduk – du måste kasta alla färger du kan på den.",
+    author: "- Danny Kaye",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag tycker att alla människor borde få bli rika och berömda och kunna göra allt de drömmer om, så att de kan inse att det inte är lösningen.",
+    author: "- Jim Carrey",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det finns ingen passion i att spela smått – i att nöja sig med ett liv som är mindre än det du har kapacitet för att leva.",
+    author: "– Nelson Mandela",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Vad gagnade mig en gåva, om än aldrig så god, då jag ej begagnade den rätt?",
+    author: "– Augustinus",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Sänd ut vad du helst vill få tillbaka.",
+    author: "– Robin Sharma",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Om inte vårens vind kan människohjärtat förstå, varför blåser den hit de fallande kronbladen då?",
+    author: "– Wang Wei",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Vad du än gör i livet, omringa dig själv med smarta människor som kommer att argumentera med dig.",
+    author: "– John Wooden",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Ingen ångrar att de har gjort sitt bästa.",
+    author: "– George Halas",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Följ det som fångar ditt hjärta, inte det som fångar dina ögon.",
+    author: "– Roy T. Bennett",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det finns ej något lidande för den som avslutat sin resa, som är utan sorg, som i varje avseende är befriad och som skakat av alla bojor.",
+    author: "– Buddha",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Det största äventyret du kan göra är att leva dina drömmars liv.",
+    author: "– Oprah Winfrey",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den som förstår det rimliga kan också åstadkomma det storslagna.",
+    author: "– Stefan Stenudd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Vi glädjer oss över fjärilens skönhet, men erkänner sällan de förändringar den har genomgått för att uppnå den skönheten.",
+    author: "– Maya Angelou",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Jag kan summera allting jag lärt mig om livet på tre ord: det går vidare.",
+    author: "– Robert Frost",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Livet är det som händer medan du gör upp andra planer.",
+    author: "– John Lennon",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Förändring är svårast i början, rörigast i mitten och bäst i slutet.",
+    author: "– Robin Sharma",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Den som blott ett ögonblick fullkomligt lämnar allt, den kommer att få allt.",
+    author: "– Mäster Eckhart",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Livet är ett vågat äventyr eller ingenting alls.",
+    author: "– Helen Keller",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ett begär efter stillhet är strävandets förbannelse och medför en oändlighet av konflikter och smärta.",
+    author: "– Jiddu Krishnamurti",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Alla dör, men långt ifrån alla lever.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "När du tvivlar på hur långt du kan gå, kom ihåg hur långt du har kommit.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet är som att åka berg-och-dalbana. Du kan antingen skrika högt varje gång det går utför eller så kan du sträcka händerna i vädret och njuta av åkturen.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Vi skola äga, som om vi inte ägde, och dock vore i besittning av alla ting.",
+    author: "– Paulus",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Livet är en tragedi fylld av glädje.",
+    author: "– Bernard Malamud",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "För vackra ögon, leta efter det goda i andra; för vackra läppar, tala endast med ord av värme; och för balans, gå med vetskapen om att du aldrig är ensam.",
+    author: "– Audrey Hepburn",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Huru otaligt många de äro som lida av den vidriga och vitt spridda sjukan, att de ej blott måste framföra för den ena ilskna människan vad den andra i sin ilska sagt utan även därtill göra sina egna tillägg.",
+    author: "– Augustinus",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den tid du tycker om att slösa bort är inte bortslösad tid.",
+    author: "– Marthe Troly-Curtin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "De flesta av oss slösar bort våra liv som om vi hade ytterligare ett på banken.",
+    author: "– Ben Irwin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Människor växer med erfarenhet om de bemöter livet med ärlighet och mod. Det är så karaktär skapas.",
+    author: "– Eleanor Roosevelt",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den som är trogen i det minsta, han är ock trogen i mycket.",
+    author: "– Augustinus",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "De små sakerna? De små stunderna? De är inte små.",
+    author: "– John Zabat-Zinn",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Ju mer sand som har runnit genom livets timglas, desto klarare ser vi genom det.",
+    author: "– Niccolò Machiavelli",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Varje person måste leva sitt liv som en modell för andra.",
+    author: "– Rosa Parks",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet är intressant… i slutet blir dina största smärtor dina största styrkor.",
+    author: "– Drew Barrymore",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Endast ett liv levt för andra är ett liv med värde.",
+    author: "– Albert Einstein",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Se på universums föreställning, men bli inte uppslukad av den. Jag ser livet och döden som vågor på havet. Jag är medvetandets hav.",
+    author: "– Paramahansa Yogananda",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Det är bättre att korsa startlinjen och drabbas av konsekvenserna än att bara stirra på linjen resten av ditt liv.",
+    author: "– Paulo Coelho",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Anpassningsförmåga i stället för ståndaktighet, följsamhet i stället för orubblighet. Det är den tillmötesgående som i längden får sin vilja igenom, och som härdar ut.",
+    author: "– Stefan Stenudd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Om man reser sig en gång mer än man faller, så har man lyckats",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Alla dessa dagar som kom och gick, inte visste jag att det var livet.",
+    author: "– Stig Johansson",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Att vara nonchalant är inte mycket till skam, som att vara ovillig att lära sig.",
+    author: "– Benjamin Franklin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Beundran är okunnighetens dotter.",
+    author: "– Benjamin Franklin",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Alla kan göra historia. Endast en stor man kan skriva den.",
+    author: "– Oscar Wilde",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "De ting vi begär är det större fröjd att jaga än att äga.",
+    author: "– William Shakespeare",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den som inte har något att dö för har inget att leva för.",
+    author: "– Marockanskt ordspråk",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den som vill leva om sitt liv har inte levat.",
+    author: "– Karen Blixen",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Den som inte griper sin chans kommer att grubbla över den hela livet.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den som fruktar döden gläder sig inte åt livet.",
+    author: "– Spanskt ordspråk",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Den person som behärskar ögonblicket, behärskar livet.",
+    author: "– Wolfram von Eschenbach",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "De människor som fått ut mest av livet är inte de som har levt ett sekel utan de som har levt varje minut.",
+    author: "– Sidonie Gabrielle Colette",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet handlar inte om att hitta sig själv, utan om att skapa sig själv",
+    author: "– John Wooden",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Gör ditt bästa. Ingen kan göra mer än så.",
+    author: "– John Wooden",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
+      "Livet är inte ett problem som måste lösas, utan en verklighet som ska upplevas",
+    author: "– Rumi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Kom ihåg var du finner dörren till harmoni: den finns inom dig.",
+    author: "– Rumi",
+  },
+  {
+    category: "Inspirerande citat",
+    quote: "Begränsa inte dina utmaningar, utmana dina begränsningar.",
+    author: "– Okänd",
+  },
+  {
+    category: "Inspirerande citat",
+    quote:
       "Lyssna inte på kritik från människor som du aldrig skulle be om ett gott råd.",
     author: "– Okänd",
   },
@@ -156,7 +1102,7 @@ const quoteData = [
   },
   {
     category: "Inspirerande citat",
-    quote: "Älska livet du lever. Lever livet du älskar.",
+    quote: "Älska livet du lever. Lev livet du älskar.",
     author: "– Bob Marley",
   },
   {
@@ -218,6 +1164,185 @@ const quoteData = [
     category: "Inspirerande citat",
     quote: "Våga, även om du är rädd.",
     author: "– H. Jackson Brown Jr.",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Du missar 100% av de gånger du inte försöker.",
+    author: "- Wayne Gretzky",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Självförtroende är framgångens första hemlighet.",
+    author: "- Ralph Waldo Emerson",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Misslyckande är framgång om vi lär oss från det.",
+    author: "- Malcolm Forbes",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Misstag är bara möjligheten att börja igen, och denna gång på ett mer intelligent vis.",
+    author: "- Henry Ford",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Det finns en drivkraft som är kraftfullare än ånga, elektricitet och atomkraft: viljan.",
+    author: "- Albert Einstein",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Framgång har en enkel formel: gör ditt bästa och folk kan komma att tycka om det.",
+    author: "- Sam Ewing",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Svårigheter är egentligen bara saker att överkomma.",
+    author: "- Sir Ernest Henry Shackleton",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Vänlighet och handling får timmarna att verka korta.",
+    author: "- William Shakespeare",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Förberedelse är nyckeln till framgång, framför allt annat.",
+    author: "- Alexander Graham Bell",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Tänk vad underbart det är att ingen behöver vänta en enda minut för att börja förändra världen.",
+    author: "- Anne Frank",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Låt inte din hjärna att säga åt ditt hjärta vad du ska göra. Hjärnan ger upp för lätt.",
+    author: "- Paulo Coelho",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Det som definierar oss människor är hur vi reser oss efter ett fall.",
+    author: "- Okänd",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Om man reser sig en gång mer än man faller, så har man lyckats.",
+    author: "- Okänd",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Fråga dig själv om det du gör idag tar dig närmare där du vill vara imorgon.",
+    author: "- Okänd",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Det är när man befinner sig mitt i skiten som man växer som mest.",
+    author: "- Okänd",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Ge aldrig upp – ge aldrig, aldrig, aldrig, aldrig upp, oavsett om det gäller små eller stora, mer eller mindre betydelsefulla saker.",
+    author: "- Winston Churchill",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Att vinna är inte allt, det är det enda.",
+    author: "- Vince Lombardi",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Det är alltid början som kräver den största mödan.",
+    author: "- James Cash Penny",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Lev livet till fullo och fokusera på det positiva.",
+    author: "- Matt Cameron",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Jag anser att en person som erövrar sina önskningar är modigare än den som besegrar sina fiender; för den svåraste segern är över en själv.",
+    author: "- Aristoteles",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "80% av framgången är att vara närvarande.",
+    author: "- Woody Allen",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Oavsett om du tror att du kan eller inte så har du rätt.",
+    author: "- Henry Ford",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Om du har byggt luftslott så behöver ditt arbete inte gå förlorat, det är där det borde vara. Lägg nu grunden under dem.",
+    author: "- George Bernard Shaw",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Om du inte kämpar för det du vill ha, gråt då inte för det du har förlorat.",
+    author: "- Anonym",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Människan behöver sina svårigheter, för de är nödvändiga för att njuta av framgången.",
+    author: "- A.P.J. Abdul Kalam",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Den som inte gör misstag försöker inte tillräckligt.",
+    author: "- Wess Robert",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Det ej undersökta livet är inte värt att leva.",
+    author: "- Sokrates",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Den som är en riktig sökare vet, lär sig och upptäcker att det bara är han själv som är ansvarig för det som händer.",
+    author: "- Jorge Bucay",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Misstag är inte ett alternativ. Alla måste lyckas.",
+    author: "- Arnold Schwarzenegger",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Varje strike för mig närmre nästa home run.",
+    author: "- Babe Ruth",
+  },
+  {
+    category: "Motiverande citat",
+    quote:
+      "Sitt inte och vänta på att saker ska komma till dig. Kämpa för det du vill ha, ta ansvar för dig själv.",
+    author: "- Michel Tanaus",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "Allting har en skönhet, men det är inte alla som ser den.",
+    author: "- Konfucius",
+  },
+  {
+    category: "Motiverande citat",
+    quote: "En person med en ny idé är en surpuppa tills idén lyckas.",
+    author: "- Mark Twain",
   },
   {
     category: "Motiverande citat",
@@ -463,6 +1588,109 @@ const quoteData = [
     category: "Motiverande citat",
     quote: "Ibland är till och med att leva en handling av mod.",
     author: "- Lucius Annaeus Seneca",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Jag är inte för gammal för att lära mig något nytt, jag är bara för gammal för att bry mig.",
+    author: "- Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Bevare mig för den unge läkaren och den gamle barberaren.",
+    author: "- Benjamin Franklin",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Adam hade en stor fördel. När han sade någonting bra visste han att ingen hade sagt det före honom.",
+    author: "- Oscar Wilde",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Ta inte livet för allvarligt. Du kommer aldrig komma ut levande.",
+    author: "- Elbert Hubbard",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Ingen människa har ett tillräckligt bra minne för att bli en framgångsrik lögnare.",
+    author: "- Abraham Lincoln",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Jag är ledsen. Om du hade haft rätt hade jag hållit med dig.",
+    author: "- Mitch Hedberg",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Bakom varje man finns en kvinna som himlar med ögonen.",
+    author: "- Jim Carrey",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Jag må vara full, fröken, men imorgon kommer jag att vara nykter och du kommer fortfarande att vara ful.",
+    author: "- Winston Churchill",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Lathet är inget annat än vanan av att vila innan du blir trött.",
+    author: "- Jules Renard",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Om du inte lyckas i början… så mycket för fallskärmshoppning.",
+    author: "- Henny Youngman",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Prata inte om dig själv. Det kommer att ske när du lämnar.",
+    author: "- Wilson Mizner",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Varför kallar de det rusningstid när ingenting rör sig?",
+    author: "- Robin Williams",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Jag tror att om livet ger dig citroner bör du göra lemonad… Och försök hitta någon som har vodka, och ha fest.",
+    author: "- Ron White",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Du vet att du har alkoholproblem när bartendern kan ditt namn — och du har aldrig varit på den baren förut.",
+    author: "- Zach Galifianakis",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "De fyra vackraste orden i vårt språk: Jag sa ju det.",
+    author: "- Gore Vidal",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Det närmaste en person någonsin kommer till perfektion är när man fyller ut en jobbansökan.",
+    author: "- Stanley Randall",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "När man tänker för mycket kan man skapa problem som inte fanns där från början.",
+    author: "- Nalle Puh",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Håll ut, de första fem dagarna efter helgen är jobbigast.",
+    author: "- Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Om man går fort och ler mycket så märker ingen att man är ful.",
+    author: "- Lasse Åberg",
   },
   {
     category: "Humoristiska citat",
