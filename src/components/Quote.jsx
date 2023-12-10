@@ -4,7 +4,7 @@ import "./Quote.css";
 const Quote = ({ randomQuote }) => {
   return (
     <div className="quote">
-      <div>{randomQuote?.quote}</div>
+      <div className="random-quote">{randomQuote?.quote}</div>
       <div>{randomQuote?.author}</div>
     </div>
   );

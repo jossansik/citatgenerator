@@ -1,9 +1,14 @@
 import React from "react";
 import "./GenerateButton.css";
 
-const GenerateButton = ({ handleGenerateRandomQuote, selectedCategory }) => {
+const GenerateButton = ({
+  type,
+  handleGenerateRandomQuote,
+  selectedCategory,
+}) => {
   return (
     <button
+      type={type}
       className="quote-display__button"
       onClick={handleGenerateRandomQuote}
       disabled={!selectedCategory}
