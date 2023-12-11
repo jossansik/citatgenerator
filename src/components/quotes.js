@@ -2278,6 +2278,995 @@ const quoteData = [
     quote: "Kärlek är inte något du hittar. Kärlek är något som hittar dig.",
     author: "- Loretta Young",
   },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Av alla mänskliga passioner är kärleken den starkaste, ty den angriper tillfälligt huvudet, hjärtat och sinnena.",
+    author: "– Okänd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är framför allt att man ger sig själv som gåva.",
+    author: "– Jean Anouilh",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Desto flera sätt vi kan hitta att uttrycka kärleken, desto mer kärlek upplever vi att vi får ta emot.",
+    author: "– Nicklas Amran",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlekens dörr är svår att öppna och svår att stänga.",
+    author: "– Kinesiskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Man kan ge utan att älska men man kan inte älska utan att ge.",
+    author: "– Carmichael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Så bliva de då beståndande, tron, hoppet, kärleken, dessa tre; men störst bland dem är kärleken.",
+    author: "– Paulus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är en resa utan kompass i ett väglöst land. Ett äventyr.",
+    author: "– Anne Swärd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det måste finnas en jämvikt mellan materiellt och andligt framåtskridande, en jämvikt som uppnås genom kärlek och medkänsla.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "En man vill alltid vara en kvinnas första kärlek – en kvinna vill alltid vara en mans sista äventyr.",
+    author: "– Oscar Wilde",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Du kan ge utan att älska, men du kan inte älska utan att ge.",
+    author: "– Ami Carmichael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Man kan utveckla ett korrekt förhållningssätt gentemot sina medmänniskor med hjälp av godhet, kärlek och respekt och genom att inse att alla människor hör ihop. Detta är viktigt eftersom våra medmänniskor gynnas av detta förhållningssätt lika mycket som av det vi gör.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Fattigdom och kärlek låter sig svårligen dölja.",
+    author: "– Francois de la Rochefoucauld",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ett lyckligt äktenskap kräver att man förälskar sig många gånger och varje gång i samma person.",
+    author: "– Mignon McLaughlin",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "I kärlek börjar man med att bedra sig själv och slutar med att bedra andra.",
+    author: "– Oscar Wilde",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Guld förblindar många; kärleken förblindar alla.",
+    author: "– Okänd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "En av de viktigaste egenskaperna är godhet. Med godhet, kärlek, medkänsla, med denna känsla som är essensen i broderskap och systerskap, når man inre frid. Denna känsla av omtanke är grunden till inre frid.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ge mig tusen kyssar, sedan hundra, sedan tusen till!",
+    author: "– Catullus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Gifta par som älskar varandra berättar tusentals saker för varandra utan att öppna munnen.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Att vara medveten om och uppleva enheten mellan dig själv och den andra är sann kärlek, sann omsorg, sann medkänsla.",
+    author: "– Eckhart Tolle",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det är med den äkta kärleken som med spökena: alla talar om den, men få har sett den.",
+    author: "– Francois de la Rochefoucauld",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Om man hyser kärlek och medkänsla gentemot alla levande varelser, och särskilt gentemot sina fiender, så är det sann kärlek och medkänsla.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "En man är som regel en kvinnas säkra byte långt innan han själv har en aning om det.",
+    author: "– Walter Winchell",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ett hjärta som älskat är alltid ungt.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Vilka dygder jag än beflitar mig om: har jag icke kärleken, så är jag intet.",
+    author: "– Paulus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Förälskade sjunger av samma anledning som barn visslar i mörkret.",
+    author: "– August Strindberg",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ett ord befriar oss från all livets börda och smärta: det ordet är kärlek.",
+    author: "– Sofokles",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Utan kärlek befinner sig mänskligheten i en mycket svår situation. Utan kärlek kommer vi att möta överväldigande svårigheter i framtiden. Kärlek är det viktigaste i allt mänskligt liv.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "När du är närvarande i detta ögonblick, då bryter du kontinuiteten i din berättelse om det förflutna och framtiden. Då uppstår sann intelligens, och även kärlek.",
+    author: "– Eckhart Tolle",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärleken är blind.",
+    author: "– Svenskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärleken är som en duva, håller man den för hårt kvävs den, håller man den för löst flyger den bort.",
+    author: "– Danskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Om jag fick en blomma varje gång jag tänkte på dig, då kunde jag vandra i min trädgård för evigt.",
+    author: "– Alfred Tennyson",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det sägs att kärleken inte känner några gränser. Men gränserna är just det intressanta.",
+    author: "– Jean-Luc Godard",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärleken övervinner allt.",
+    author: "– Vergilius 19 f. Kr.",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlekens blommor skall vattnas med vin.",
+    author: "– CM Bellman op 13",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Du är kärleken själv – när du inte är rädd.",
+    author: "– Nisargadatta Maharaj",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Men älska mig för kärleks skull, så att för alltid du kan älska, genom kärlekens hela evighet.",
+    author: "– Elizabeth Barrett Browning",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Men att se henne var att älska henne, älska bara henne och älska för evigt.",
+    author: "– Robert Burns",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Den vet föga om kärleken som alltid talar om den.",
+    author: "– Italienskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Att vara frikostig med handen är en sak, men att vara frikostig av hjärtat är något annat.",
+    author: "– Jiddu Krishnamurti",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Egentligen finns vi till genom kärleken. Det är kärleken som bestämmer vad vi är.",
+    author: "– William Sloane Coffin",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det är omöjligt att vara att vara förälskad och klok på samma gång.",
+    author: "– Francis Bacon",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek innebär att känna och acceptera varandra för vad man verkligen är, som att ge, som att försaka, som att förbli trofast när man möter svårigheter och besvikelser.",
+    author: "– Cyprian Smith",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek föds ur glädjen att se på varandra, får näring ur behovet av att vara tillsammans och fulländas av det omöjliga i att vara åtskilda.",
+    author: "– José Marti",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärleken skapar ett “vi” utan att förstöra ett “jag”.",
+    author: "– Leo Buscaglia",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Innerst inne måste vi hysa kärlek till varandra, vi måste klart inse och förstå att vi har en gemensam mänsklig natur.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Själen är skapad av kärlek och strävar alltid efter att återvända till kärlek. Därför kan den aldrig finna frid eller lycka i andra saker. Det måste vara försjunken i kärlek.",
+    author: "– Mechthild av Magdeburg",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Det finns inget bättre skönhetsmedel än lycka.",
+    author: "– Blessington",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Inget ont om män. De är ju det bästa vi har, i den vägen.",
+    author: "– Maj Fant",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Jag lärde mig för länge sedan att de enda människor som räknas i varje äktenskap är de båda som finns i det.",
+    author: "– Hillary Rodham Clinton",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Vänskapen människor emellan är ljuvlig genom det kärlekens band varmed själarna förenas.",
+    author: "– Augustinus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Den högsta lyckan i livet är förvissningen om att vara älskad för sin egen skull, eller rättare sagt: att vara älskad trots en själv.",
+    author: "– Victor Hugo",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Den sanna kärleken liknar cirkeln, och cirkeln har inget slut.",
+    author: "– Ryskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Med vår kärlek kan vi förändra världen.",
+    author: "– George Harrison",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Du kan lära dig att tala genom att tala, att studera genom att studera, att springa genom att springa, att arbeta genom att arbeta; på samma sätt kan du lära dig att älska genom att älska.",
+    author: "– Frans av Sales",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Det finns ingen bot för kärleken, annat än att älska mer.",
+    author: "– Thoreau",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Den som inte kan hata kan inte heller älska.",
+    author: "– Voltaire",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärleken söker ingen anledning utöver sig själv och ingen frukt; den är sin egen frukt, sin egen glädje. Jag älskar för att jag älskar; jag älskar för att jag kan älska.",
+    author: "– Bernhard av Clairvaux",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Älskar du dig själv, så älskar du alla andra människor lika mycket som dig själv. Så länge du älskar någon enda människa mindre än dig själv, så har du aldrig vunnit den rätta kärleken till dig själv.",
+    author: "– Mäster Eckhart",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Hjärtat har inga rynkor.",
+    author: "– Engelskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Den kärlek som du söker efter överallt finns redan inom dig. Den kan framkallas av olika personer eller händelser, men till slut måste du inse att du är denna kärlek. Källan till all kärlek är inom dig.",
+    author: "– Gangaji",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek bör vara ett träd med djupa rötter, men som harskott, som växer in i himlen.",
+    author: "– Bertrand Russel",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Att se ett ungt par som älskar varandra är inget under; men att se ett gammalt par som älskar varandra är det bästa men kan få se.",
+    author: "– William Makepeace Thackeray",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Om du vill bli älskad, älska själv.",
+    author: "– Hekaton",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Män vill alltid vara en kvinnas första kärlek – kvinnor vill vara en mans sista äventyr.",
+    author: "– Oscar Wilde",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Och jag tänker alltid på dig i april.",
+    author: "– Håkan Hellström",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Jag blir hellre ensam än lycklig med någon annan.",
+    author: "– Håkan Hellström",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ge mig en kyss innan du går att bygga en dröm på.",
+    author: "– Håkan Hellström",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Jag vet inte vem jag är men jag vet att jag är din.",
+    author: "– Håkan Hellström",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Du kan ge utan att älska, men du kan inte älska utan att ge.",
+    author: "– Ami Carmichael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ett hjärta som älskat är alltid ungt.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärleken skapar ett 'vi' utan att förstöra ett 'jag'.",
+    author: "– Leo Buscaglia",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är framför allt att man ger sig själv som gåva.",
+    author: "– Jean Anouilh",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vi upphör att älska oss själva om ingen älskar oss.",
+    author: "– Mme de Stael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Egentligen finns vi till genom kärleken. Det är kärleken som bestämmer vad vi är.",
+    author: "– William Sloane Coffin",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ett lyckligt äktenskap kräver att man förälskar sig många gånger och varje gång i samma person.",
+    author: "– Mignon McLaughlin",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek bör vara ett träd med djupa rötter, men som harskott, som växer in i himlen.",
+    author: "– Bertrand Russel",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Människor är som pusselbitar, det finns alltid två som passar ihop.",
+    author: "– Okänd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Det finns ingen bot för kärleken, annat än att älska mer.",
+    author: "– Thoreau",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ett ord befriar oss från all livets börda och smärta: det ordet är kärlek.",
+    author: "– Sofokles",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Sådan enighet skall råda emellan er att när den ene gråter skall den andre känna smaken av salt.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Tills du är hundra, tills jag är nittionio, tillsammans, tills håret blir vitt.",
+    author: "– Japansk sång",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Varje gång du möter min blick blir min värld lite större.",
+    author: "– Okänd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kyssen är vad som har blivit kvar av paradisets språk.",
+    author: "– Joseph Conrad",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärleken är som en duva, håller man den för hårt kvävs den, håller man den för löst flyger den bort.",
+    author: "– Danskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är en resa utan kompass i ett väglöst land. Ett äventyr.",
+    author: "– Anne Swärd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Förälskade sjunger av samma anledning som barn visslar i mörkret.",
+    author: "– August Strindberg",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ingenting kan jag lova dig ingenting försäkra bara detta att just nu är vi alltid tillsammans.",
+    author: "– Lars Björklund",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Två själar med bara en tanke – två hjärtan som slår som ett.",
+    author: "– E.F.J Von Munch-Bellinghausen",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Den största lyckan i livet är förvissningen om att vara älskad för sin egen skull, eller rättare sagt: att vara älskad trots en själv.",
+    author: "– Victor Hugo",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Det är omöjligt att vara förälskad och klok på samma gång.",
+    author: "– Francis Bacon",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "I kärlek börjar man med att bedra sig själv och slutar med att bedra andra.",
+    author: "– Oscar Wilde",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärleken skapar ett 'vi' utan att förstöra ett 'jag'.",
+    author: "– Leo Buscaglia",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Man kan ge utan att älska men man kan inte älska utan att ge.",
+    author: "– Carmichael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Omnia vincit amor – Kärleken övervinner allt.",
+    author: "– Vergilius",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vi upphör att älska oss själva om ingen älskar oss.",
+    author: "– Mme de Stael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Allt du behöver är kärlek. Kärlek är allt du behöver.",
+    author: "– John Lennon",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Den sanna kärleken liknar cirkeln, och cirkeln har inget slut.",
+    author: "– Ryskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Du kan ge utan att älska, men du kan inte älska utan att ge.",
+    author: "– Ami Carmichael",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ett ord befriar oss från all livets börda och smärta: det ordet är kärlek.",
+    author: "– Sofokles",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärleken är som en duva, håller man den för hårt kvävs den, håller man den för löst flyger den bort.",
+    author: "– Danskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är framför allt att man ger sig själv som gåva.",
+    author: "– Jean Anouilh",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek kan förflytta berg.",
+    author: "– Nordiskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Sådan enighet skall råda emellan er att när den ene gråter skall den andre känna smaken av salt.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är ingenting du hittar. Det är något som hittar dig.",
+    author: "– Loretta Young",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vid närvaro i kärlek blir alla en poet.",
+    author: "– Plato",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Allting, allt som jag förstår, förstår jag endast för att jag älskar.",
+    author: "– Leon Tolstoy",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ibland ser ditt hjärta det som är osynligt för dina ögon.",
+    author: "– H. Jackson Brown, Jr.",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Att älska är ingenting. Att vara älskad är något. Men att älska och att vara älskad, det är allting.",
+    author: "– T. Tolis",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vin och kvinnor gör mannen galen.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Tills du är hundra, tills jag är nittionio, tillsammans, tills håret blir vitt.",
+    author: "– Japansk sång",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Män vill alltid vara en kvinnas första kärlek – kvinnor vill vara en mans sista äventyr.",
+    author: "– Oscar Wilde",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Man kan inte ge en kyss utan att ta och man kan inte ta en utan att ge.",
+    author: "– Okänd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek och snuva kan inte döljas.",
+    author: "– Ryskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kyssen är vad som har blivit kvar av paradisets språk.",
+    author: "– Joseph Conrad",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Fattigdom och kärlek låter sig svårligen dölja.",
+    author: "– Francois de la Rochefoucauld",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det är med den äkta kärleken som med spökena: alla talar om den, men få har sett den.",
+    author: "– Francois de la Rochefoucauld",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Den som inte kan hata kan inte heller älska.",
+    author: "– Voltaire",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Om du hatar en människa, gör henne en tjänst och du skall lära dig älska henne.",
+    author: "– Konfucius",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "När jag misströstar tänker jag på att i alla tider har sanningen och kärleken alltid segrat.",
+    author: "– Mahatma Gandhi",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är hjärtats offergåva.",
+    author: "– Radhanath Swami",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Sök kärleken och du möter den aldrig, fly från kärleken och den kommer att förfölja dig.",
+    author: "– Engelskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Människor är som pusselbitar, det finns alltid två som passar ihop.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Om du vill bli älskad, älska själv.",
+    author: "– Hekaton",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlekens dörr är svår att öppna och svår att stänga.",
+    author: "– Kinesiskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärleken är blind.",
+    author: "– Svenskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Gifta par som älskar varandra berättar tusentals saker för varandra utan att öppna munnen.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Utan kärlek befinner sig mänskligheten i en mycket svår situation. Utan kärlek kommer vi att möta överväldigande svårigheter i framtiden.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det måste finnas en jämvikt mellan materiellt och andligt framåtskridande, en jämvikt som uppnås genom kärlek och medkänsla.",
+    author: "– Dalai lama",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Du kan lära dig att tala genom att tala, att studera genom att studera, att springa genom att springa, att arbeta genom att arbeta; på samma sätt kan du lära dig att älska genom att älska.",
+    author: "– Frans av Sales",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Vänskapen människor emellan är ljuvlig genom det kärlekens band varmed själarna förenas.",
+    author: "– Augustinus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Om jag fick en blomma varje gång jag tänkte på dig, då kunde jag vandra i min trädgård för evigt.",
+    author: "– Alfred Tennyson",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Dagen då kärlekens makt upphäver kärleken efter makt, då kommer världen att veta vad fred innebär.",
+    author: "– Mahatma Gandhi",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Lyckan slinker in genom en dörr som man inte visste att man lämnat på glänt.",
+    author: "– John Barrymore",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Vishet är att veta att jag är ingenting, kärlek är att veta att jag är allt, och mellan dessa två rör mitt liv sig.",
+    author: "– Nisargadatta Maharaj",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "När den älskande själv befriats från beroende av den älskade genom kärlekens mognad till en strålning vars väsen är det egnas upplösning i ljus, då skall den älskade fulländas också genom att bli frigjord från den älskande.",
+    author: "– Dag Hammarskjöld",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vad som görs av kärlek sker alltid bortom gott och ont.",
+    author: "– Friedrich Nietzsche",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vi delade på kärlek. Jag tog kär, du tog lek.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "De människor som fått mest ut av livet är inte de som levt ett sekel, utan de som levt varje minut.",
+    author: "– Colette",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Att se ett ungt par som älskar varandra är inget under; men att se ett gammalt par som älskar varandra är det bästa men kan få se.",
+    author: "– William Makepeace Thackeray",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Den vet föga om kärleken som alltid talar om den.",
+    author: "– Italienskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det sägs att kärleken inte känner några gränser. Men gränserna är just det intressanta.",
+    author: "– Jean-Luc Godard",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Egentligen finns vi till genom kärleken. Det är kärleken som bestämmer vad vi är.",
+    author: "– William Sloane Coffin",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ett hjärta som älskat är alltid ungt.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Förälskade sjunger av samma anledning som barn visslar i mörkret.",
+    author: "– August Strindberg",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Inget ont om män. De är ju det bästa vi har, i den vägen.",
+    author: "– Maj Fant",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek bör vara ett träd med djupa rötter, men som harskott, som växer in i himlen.",
+    author: "– Bertrand Russel",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Det är inte en brist på kärlek, utan brist på vänskap som skapar olyckliga äktenskap.",
+    author: "– Friederich Nietzche",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Låt aldrig någon komma till dig utan att gå där ifrån gladare.",
+    author: "– Moder Teresa",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är när den andra personens lycka är viktigare än din egen.",
+    author: "– H. Jackson Brown, Jr.",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Om du lever för att bli hundra år gammal vill jag leva hundra minus en dag så att jag aldrig behöver leva utan dig.",
+    author: "– A.A. Milne",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Det bästa att hålla fast i i livet är varandra.",
+    author: "– Audrey Hepburn",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Viss kärlek är som vinteräpplen, mognar sent och håller länge.",
+    author: "– Okänt ursprung",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vi kan inte uträtta stora saker – bara små saker med stor kärlek.",
+    author: "– Moder Teresa",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Två själar med bara en tanke – två hjärtan som slår som ett.",
+    author: "– E.F.J Von Munch-Bellinghausen",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Vill ni förstå männen? Studera kvinnorna.",
+    author: "– Jean-Jacques Rousseau",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Men att se henne var att älska henne, älska bara henne och älska för evigt.",
+    author: "– Robert Burns",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Men älska mig för kärleks skull, så att för alltid du kan älska, genom kärlekens hela evighet.",
+    author: "– Elizabeth Barrett Browning",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Kärlek är en resa utan kompass i ett väglöst land. Ett äventyr.",
+    author: "– Anne Swärd",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek föds ur glädjen att se på varandra, får näring ur behovet av att vara tillsammans och fulländas av det omöjliga i att vara åtskilda.",
+    author: "– José Marti",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Jag lärde mig för länge sedan att de enda människor som räknas i varje äktenskap är de båda som finns i det.",
+    author: "– Hillary Rodham Clinton",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Det finns inget bättre skönhetsmedel än lycka.",
+    author: "– Blessington",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Den högsta lyckan i livet är förvissningen om att vara älskad för sin egen skull, eller rättare sagt: att vara älskad trots en själv.",
+    author: "– Victor Hugo",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Lycka kommer inte från materiella ting, utan från kärleken med vilken de skänks.",
+    author: "– Radhanath Swami",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Rynkor är smilgropar i älskarens ögon.",
+    author: "– Kinesiskt ordspråk",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Så bliva de då beståndande, tron, hoppet, kärleken, dessa tre; men störst bland dem är kärleken.",
+    author: "– Paulus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "När du är närvarande i detta ögonblick, då bryter du kontinuiteten i din berättelse om det förflutna och framtiden. Då uppstår sann intelligens, och även kärlek.",
+    author: "– Eckhart Tolle",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Älskar du dig själv, så älskar du alla andra människor lika mycket som dig själv. Så länge du älskar någon enda människa mindre än dig själv, så har du aldrig vunnit den rätta kärleken till dig själv.",
+    author: "– Mäster Eckhart",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Att vara medveten om och uppleva enheten mellan dig själv och den andra är sann kärlek, sann omsorg, sann medkänsla.",
+    author: "– Eckhart Tolle",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Ge mig tusen kyssar, sedan hundra, sedan tusen till!",
+    author: "– Catullus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Vilka dygder jag än beflitar mig om: har jag icke kärleken, så är jag intet.",
+    author: "– Paulus",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Ett lyckligt äktenskap kräver att man förälskar sig många gånger och varje gång i samma person.",
+    author: "– Mignon McLaughlin",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Kärlek är vänskap som har fattat eld. Den är tyst förstående, ömsesidigt förtroende, öppen och förlåtande. Den är lojal genom goda och dåliga tider. Den nöjer sig för mindre än perfektion och förbiser mänskliga svagheter.",
+    author: "– Ann Landers",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "För att bli själv bli glad är det nödvändigt att göra åtminstone en annan person glad.",
+    author: "– Theodor Reik",
+  },
+  {
+    category: "Kärlekscitat",
+    quote: "Om jag vet vad kärlek är, är det tack vare dig.",
+    author: "– Herman Hesse",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Jag såg att du var perfekt, så jag älskade dig. Sen såg jag att du inte var perfekt, och jag älskade dig ännu mera.",
+    author: "– Angelita Lim",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Hjärtat vill ha vad det vill ha. Det finns ingen logik i de sakerna. Du träffar någon och du blir kär och det är det.",
+    author: "– Woody Allen",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Omogen kärlek säger: ‘Jag älskar dig för jag behöver dig’. Mogen kärlek säger ‘Jag behöver dig för att jag älskar dig.’",
+    author: "– Erich Fromm",
+  },
+  {
+    category: "Kärlekscitat",
+    quote:
+      "Den största kärleken av alla, är lätt att uppnå. Att lära sig älska sig själv, det är den största kärleken av alla.’",
+    author: "– Linda Creed",
+  },
 ];
 
 export default quoteData;
