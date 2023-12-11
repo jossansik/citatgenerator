@@ -1,6 +1,5 @@
 .quote-display {
   text-align: center;
-  margin: 20px;
   color: #333;
 }
 
@@ -9,7 +8,7 @@
   justify-content: center;
   align-items: center;
   padding-bottom: 1px;
-  max-height: 100vh;
+
   overflow-y: auto;
 }
 

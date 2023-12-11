@@ -4,6 +4,7 @@ import CategorySelector from "./CategorySelector";
 import "./QuoteDisplay.css";
 import GenerateButton from "./GenerateButton";
 import Quote from "./Quote";
+import Title from "./Title";
 
 const QuoteDisplay = () => {
   const [randomQuote, setRandomQuote] = useState({});
@@ -47,6 +48,10 @@ const QuoteDisplay = () => {
 
   return (
     <div className="quote-display">
+      <div>
+        {" "}
+        <Title />
+      </div>
       <div>
         <Quote randomQuote={randomQuote} />
       </div>
