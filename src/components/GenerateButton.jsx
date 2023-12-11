@@ -6,12 +6,16 @@ const GenerateButton = ({
   handleGenerateRandomQuote,
   selectedCategory,
 }) => {
+  const handleClick = (event) => {
+    event.preventDefault();
+    handleGenerateRandomQuote();
+  };
   return (
     <div className="button-wrapper">
       <button
         type={type}
         className="button"
-        onClick={handleGenerateRandomQuote}
+        onClick={handleClick}
         disabled={!selectedCategory}
       >
         Generera citat

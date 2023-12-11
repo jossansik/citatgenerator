@@ -57,7 +57,11 @@ const QuoteDisplay = () => {
             handleCategoryChange={handleCategoryChange}
           />
           <div className="button-container">
-            <GenerateButton type="submit" selectedCategory={selectedCategory} />
+            <GenerateButton
+              type="submit"
+              selectedCategory={selectedCategory}
+              handleGenerateRandomQuote={handleGenerateRandomQuote}
+            />
           </div>
         </form>
       </div>

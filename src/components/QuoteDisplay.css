@@ -9,6 +9,8 @@
   justify-content: center;
   align-items: center;
   padding-bottom: 1px;
+  max-height: 100vh;
+  overflow-y: auto;
 }
 
 .quote-display__title {
