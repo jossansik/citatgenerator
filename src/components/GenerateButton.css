@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Rubik&family=Shadows+Into+Light&display=swap");
 
-.quote-display__button {
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+button {
   font-family: Rubik, sans-serif;
   padding: 10px 20px;
   font-size: 16px;
@@ -11,7 +16,7 @@
   cursor: pointer;
 }
 
-.quote-display__button:disabled {
+button:disabled {
   background-color: #ccc;
   cursor: not-allowed;
 }

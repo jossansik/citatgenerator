@@ -1,7 +1,7 @@
 .quote-display {
   text-align: center;
   margin: 20px;
-  color: black;
+  color: #333;
 }
 
 .quote-display__container {
@@ -14,11 +14,4 @@
 .quote-display__title {
   font-size: 24px;
   font-weight: bold;
-}
-
-.button-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-top: 0.5em;
 }

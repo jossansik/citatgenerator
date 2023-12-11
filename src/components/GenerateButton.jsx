@@ -7,14 +7,16 @@ const GenerateButton = ({
   selectedCategory,
 }) => {
   return (
-    <button
-      type={type}
-      className="quote-display__button"
-      onClick={handleGenerateRandomQuote}
-      disabled={!selectedCategory}
-    >
-      Generera citat
-    </button>
+    <div className="button-wrapper">
+      <button
+        type={type}
+        className="button"
+        onClick={handleGenerateRandomQuote}
+        disabled={!selectedCategory}
+      >
+        Generera citat
+      </button>
+    </div>
   );
 };
 
