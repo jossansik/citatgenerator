@@ -140,7 +140,7 @@ const quoteData = [
   {
     category: "Inspirerande citat",
     quote:
-      "Gör det mesta av dig själv genom att vattna de små, och genom att göra inre gnistorna till lågor av prestation.",
+      "Gör det mesta av dig själv genom att vattna de små, och genom att göra de inre gnistorna till lågor av prestation.",
     author: "– Golda Meir",
   },
   {
@@ -1588,6 +1588,149 @@ const quoteData = [
     category: "Motiverande citat",
     quote: "Ibland är till och med att leva en handling av mod.",
     author: "- Lucius Annaeus Seneca",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Sjukdomar är som ovälkomna släktingar. De dyker alltid upp vid de mest olämpliga tidpunkterna och vägrar att gå hem.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Latmaskar är som solur – de är mest aktiva när de inte behöver göra något.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Latmaskar är som professionella konstnärer när det gäller att undvika arbete. De kan skapa mästerverk av ursäkter.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Barn är som små forskare som experimenterar med gränserna för hur länge du kan behålla ditt tålamod.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Barn är som små komiker utan filter. Du vet att du är en förälder när du skrattar trots att du inte borde.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Katter är som regelbundna terapeuter, men med päls och svans. De bryr sig inte om dina problem, de bara är där för att bli klappade.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Programmerare och katter har mycket gemensamt - de gillar båda att ignorera dig när du behöver dem som mest.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Min definition av en balanserad kost är en drink i varje hand.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Att få en italienare att avslöja sitt familjerecept är som att försöka få dem att avslöja en statshemlighet.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "I Italien är ett måltid utan vin som en dag utan solsken – det går bara inte.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Att försöka förstå brittisk humor är som att försöka förklara cricket-reglerna. Det tar tid, och du kommer förmodligen bli förvirrad.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Att klaga på kylan är svenskarnas nationalsport. Vi övar året runt.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Svenska somrar är som en paus mellan två vintrar. Vi måste verkligen njuta av dem.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Svenskar pratar ofta om vädret. Vi har ju så mycket av det.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Jag brukade vara självsäker, men så träffade jag en spegel.",
+    author: "– David Lee Roth",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Att vara vuxen är som att försöka baka kakor utan recept. Ingen vet riktigt vad de gör.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Att försöka vara logisk med en kvinna är som att försöka ge instruktioner till en katt. Det kan fungera, men det är mycket tveksamt.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Mitt hus är rent nog att vara hälsosamt och smutsigt nog för att vara lyckligt.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Om en bok om misslyckande misslyckas, är den då en framgång?",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Min trädgård är som min själ – överväxt och full av ogräs.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Mitt träningsprogram består av att hålla in magen varje gång jag ser mig själv i spegeln.",
+    author: "– Okänd",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Jag ska sluta dricka kaffe. Det är som att betala skatt för att vara vaken.",
+    author: "– Sonja Yoerg",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Ålder är bara ett tal. Tyvärr är det oftast ett ganska högt tal.",
+    author: "– Amy Neftzger",
+  },
+  {
+    category: "Humoristiska citat",
+    quote:
+      "Mina föräldrar sa alltid att jag skulle bli något. Jag är säker på att de inte menade 'arbetslös'.",
+    author: "– Dik Gregory",
+  },
+  {
+    category: "Humoristiska citat",
+    quote: "Jag älskar matlagning med vin. Ibland har jag det även i maten.",
+    author: "– W.C. Fields",
   },
   {
     category: "Humoristiska citat",
