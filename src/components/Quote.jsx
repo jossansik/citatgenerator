@@ -3,9 +3,11 @@ import "./Quote.css";
 
 const Quote = ({ randomQuote }) => {
   return (
-    <div className="quote">
-      <div className="random-quote">{randomQuote?.quote}</div>
-      <div>{randomQuote?.author}</div>
+    <div className="quote-wrapper">
+      <div className="random-quote">
+        <div className="quote">{randomQuote?.quote}</div>
+        <div className="author"> {randomQuote?.author}</div>
+      </div>
     </div>
   );
 };

@@ -47,6 +47,9 @@ const QuoteDisplay = () => {
 
   return (
     <div className="quote-display">
+      <div>
+        <Quote randomQuote={randomQuote} />
+      </div>
       <div className="quote-display__container">
         <form action="#" onSubmit={handleGenerateRandomQuote}>
           <CategorySelector
@@ -57,9 +60,6 @@ const QuoteDisplay = () => {
             <GenerateButton type="submit" selectedCategory={selectedCategory} />
           </div>
         </form>
-      </div>
-      <div>
-        <Quote randomQuote={randomQuote} />
       </div>
     </div>
   );

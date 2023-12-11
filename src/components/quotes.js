@@ -627,7 +627,7 @@ const quoteData = [
   },
   {
     category: "Inspirerande citat",
-    quote: "Det finns mer till i livet än att öka dess hastighet.",
+    quote: "Det finns mer till livet än att öka dess hastighet.",
     author: "– Mahatma Gandhi",
   },
   {
@@ -657,7 +657,7 @@ const quoteData = [
   {
     category: "Inspirerande citat",
     quote:
-      "Det finns ingen passion i att spela smått – i att nöja sig med ett liv som är mindre än det du har kapacitet för att leva.",
+      "Det finns ingen passion i att spela smått, i att nöja sig med ett liv som är mindre än det du har kapacitet för att leva.",
     author: "– Nelson Mandela",
   },
   {
