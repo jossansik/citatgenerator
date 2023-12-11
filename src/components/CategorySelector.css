@@ -1,8 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Rubik&family=Shadows+Into+Light&display=swap");
+
 .category-selector {
   position: relative;
 }
 
 .category-selector__select {
+  font-family: Rubik, sans-serif;
   font-size: 16px;
   appearance: none;
   padding: 8px;

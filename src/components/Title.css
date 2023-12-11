@@ -22,9 +22,9 @@
 .quote-display__body {
   font-family: "Rubik", sans-serif;
   font-size: 16px;
-  color: #666;
+  color: #333;
   margin-bottom: 10px;
   max-width: 600px;
   text-align: center;
-  padding: 2px;
+  padding: 10px;
 }

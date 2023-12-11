@@ -1,6 +1,7 @@
 .quote-display {
   text-align: center;
   margin: 20px;
+  color: black;
 }
 
 .quote-display__container {
@@ -13,12 +14,6 @@
 .quote-display__title {
   font-size: 24px;
   font-weight: bold;
-}
-
-.quote-display__body {
-  font-family: "Lato", sans-serif;
-  font-size: 16px;
-  margin: 20px 0;
 }
 
 .button-container {
