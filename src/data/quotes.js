@@ -2154,12 +2154,6 @@ const quoteData = [
   {
     category: "Filosofiska citat",
     quote:
-      "Den första människa, som inhägnade ett stycke mark, kom på att säga 'Detta är mitt!' och fann människor nog enfaldiga att tro honom, var samhällets verkliga grundare. Hur många brott, krig, och mord; hur mycken olycka och fasa skulle inte den mänskliga rasen ha besparats om något ryckt upp pålarna, fyllt igen diket och ropat till sina medmänniskor: 'Akta er för denne bedragare, ni är förlorare om ni glömmer att jordens frukter tillhör alla och jorden själv tillhör ingen!",
-    author: "- Rousseau",
-  },
-  {
-    category: "Filosofiska citat",
-    quote:
       "Nya tankesätt är oftast resultat av en självisk inställning och inskränkta åsikter. Människor som aldrig ser tillbaka till sina förfäder kommer heller aldrig att se fram mot sina efterkommande.",
     author: "- Edmund Burke",
   },
