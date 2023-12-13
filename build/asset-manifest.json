@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/citatgenerator/react-gh-pages/static/css/main.49c899d9.css",
-    "main.js": "/citatgenerator/react-gh-pages/static/js/main.0e8c8aff.js",
-    "static/js/787.1a6f94ca.chunk.js": "/citatgenerator/react-gh-pages/static/js/787.1a6f94ca.chunk.js",
-    "index.html": "/citatgenerator/react-gh-pages/index.html",
-    "main.49c899d9.css.map": "/citatgenerator/react-gh-pages/static/css/main.49c899d9.css.map",
-    "main.0e8c8aff.js.map": "/citatgenerator/react-gh-pages/static/js/main.0e8c8aff.js.map",
-    "787.1a6f94ca.chunk.js.map": "/citatgenerator/react-gh-pages/static/js/787.1a6f94ca.chunk.js.map"
+    "main.css": "/citatgenerator/static/css/main.49c899d9.css",
+    "main.js": "/citatgenerator/static/js/main.2009d5dd.js",
+    "static/js/787.1a6f94ca.chunk.js": "/citatgenerator/static/js/787.1a6f94ca.chunk.js",
+    "index.html": "/citatgenerator/index.html",
+    "main.49c899d9.css.map": "/citatgenerator/static/css/main.49c899d9.css.map",
+    "main.2009d5dd.js.map": "/citatgenerator/static/js/main.2009d5dd.js.map",
+    "787.1a6f94ca.chunk.js.map": "/citatgenerator/static/js/787.1a6f94ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49c899d9.css",
-    "static/js/main.0e8c8aff.js"
+    "static/js/main.2009d5dd.js"
   ]
 }
