@@ -3,13 +3,13 @@ import "./Title.css";
 
 const Title = () => {
   return (
-    <div className="quote-display__title-container">
-      <h1 className="quote-display__title">Välkommen till</h1>
-      <h2 className="quote-display__title2">Citatgeneratorn</h2>
-      <h3 className="quote-display__body">
+    <div className="title-container">
+      <h1 className="title">Välkommen till</h1>
+      <h2 className="title2">Citatgeneratorn</h2>
+      <h3 className="body">
         Här kan du hitta slumpmässigt valda citat för alla tillfällen och
-        sinnesstämningar. Välj kategori, tryck på knappen och njut av nya
-        insikter. <br />{" "}
+        sinnesstämningar. Välj kategori, tryck på knappen och låt dig
+        inspireras! <br />{" "}
       </h3>
     </div>
   );

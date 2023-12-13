@@ -5,9 +5,11 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p>
-        Vänligen notera att citaten på denna sida är AI-genererade och/eller
-        hämtade från internet. Överväg därför att kontrollera riktigheten om det
-        är viktigt att citatet du använder är korrekt.
+        Dela gärna dina favoritcitat med andra och sprid positivitet och visdom
+        i världen, men vänligen observera att citaten på denna sida kommer från
+        AI-generering och/eller internetkällor. Vi rekommenderar därför att du
+        verifierar riktigheten om det är av betydelse att citatet du använder är
+        korrekt.
       </p>
     </footer>
   );

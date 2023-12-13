@@ -10,8 +10,9 @@ const CategorySelector = ({ categories, handleCategoryChange }) => {
         ref={inputRef}
         onChange={handleCategoryChange}
         className="category-selector__select"
+        defaultValue={""}
       >
-        <option disabled selected hidden>
+        <option disabled hidden value={""}>
           Välj kategori:
         </option>
         {categories.map((category) => (

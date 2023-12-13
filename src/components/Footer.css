@@ -8,3 +8,10 @@
   color: white;
   font-family: "Rubik", sans-serif;
 }
+
+@media (max-width: 600px) {
+  .footer {
+    position: static;
+    padding: 20px;
+  }
+}

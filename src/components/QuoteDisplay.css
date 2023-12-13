@@ -7,12 +7,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-bottom: 1px;
-
-  overflow-y: auto;
+  padding-bottom: 50px;
 }
 
 .quote-display__title {
   font-size: 24px;
-  font-weight: bold;
 }
