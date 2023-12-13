@@ -9,7 +9,7 @@ const Title = () => {
       <h3 className="body">
         Här kan du hitta slumpmässigt valda citat för alla tillfällen och
         sinnesstämningar. Välj kategori, tryck på knappen och låt dig
-        inspireras! <br />{" "}
+        inspireras! <br />
       </h3>
     </div>
   );

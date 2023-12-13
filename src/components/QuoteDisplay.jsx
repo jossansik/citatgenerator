@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import quoteData from "./quotes";
+import React, { useState, useEffect, useCallback } from "react";
+import quoteData from "../data/quotes";
 import CategorySelector from "./CategorySelector";
 import "./QuoteDisplay.css";
 import GenerateButton from "./GenerateButton";
@@ -11,7 +11,7 @@ const QuoteDisplay = () => {
   const [categories, setCategories] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState("");
 
-  const getRandomQuote = () => {
+  const getRandomQuote = useCallback(() => {
     let filteredQuotes = quoteData;
     if (selectedCategory) {
       filteredQuotes = quoteData.filter(
@@ -26,7 +26,7 @@ const QuoteDisplay = () => {
     } else {
       setRandomQuote("Det finns inga citat i den valda kategorin");
     }
-  };
+  }, [selectedCategory]);
 
   useEffect(() => {
     // Split quotes into categories
@@ -35,7 +35,7 @@ const QuoteDisplay = () => {
     ];
     setCategories(uniqueCategories);
     getRandomQuote(); // Set a random quote as default
-  }, []);
+  }, [getRandomQuote]);
 
   const handleCategoryChange = (event) => {
     const category = event.target.value;
@@ -49,7 +49,6 @@ const QuoteDisplay = () => {
   return (
     <div className="quote-display">
       <div>
-        {" "}
         <Title />
       </div>
       <div>
